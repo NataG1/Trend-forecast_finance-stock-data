@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes historical stock data for Apple Inc. (AAPL) from 2010-2022, implements a moving average crossover trading strategy, and develops a machine learning model to predict stock price movements. The analysis includes data retrieval, preprocessing, exploratory data analysis, strategy implementation, backtesting, and model evaluation.
 
-##Project Structure
+## Project Structure
 The project is organized into 8 milestones that progress from data acquisition to model evaluation:
 
 Milestone 1: Data Retrieval and Pre-processing
